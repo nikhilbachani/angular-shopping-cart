@@ -1,3 +1,3 @@
-# angular-dsves6
+# angular-shopping-cart
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-dsves6)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nikhilbachani-angular-shopping-cart)
